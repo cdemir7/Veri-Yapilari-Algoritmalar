@@ -1,3 +1,9 @@
 # Veri-Yapilari-Algoritmalar
 
-#İçindekiler
+
+# İçindekiler
++ İnseriton Sort Projesi
++ Merge Sort Projesi
++ Binary Search Tree Projesi
+
+www.patika.dev
